@@ -1,0 +1,25 @@
+#navigation .container{
+    padding: 0rem 2rem;
+}
+#showcase{
+    height: 60vh;
+}
+#card-1{
+    height: 60vh;
+}
+#light-card-1{
+    height: 60vh;
+}
+.light-text{
+    padding-left: 2rem;
+}
+#card-2{
+    background-color: var(--secondary-color);
+    height: 60vh;
+}
+#newsletter .newsletter-content{
+    padding: 0rem 2rem;
+}
+.footer-container{
+    padding: 0rem 2rem;
+}
